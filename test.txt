@@ -1,1 +1,2 @@
 This is the first line written by user tom
+this is the second line
